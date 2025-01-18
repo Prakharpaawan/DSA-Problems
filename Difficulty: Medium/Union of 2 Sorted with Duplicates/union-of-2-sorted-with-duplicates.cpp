@@ -9,21 +9,46 @@ class Solution {
   public:
     // a,b : the arrays
     // Function to return a list containing the union of the two arrays.
-    vector<int> findUnion(vector<int> &a, vector<int> &b) {
-        set<int>st;
-        for(int i=0; i < a.size();i++) {
-            st.insert(a[i]);
+vector<int> findUnion(vector<int> &a, vector<int> &b) {
+        vector<int> Union;
+        int n1 = a.size();
+        int n2 = b.size();
+        int i = 0;
+        int j = 0;
+        
+        while (i < n1 && j < n2) {
+            if (a[i] <= b[j]) {
+                if (Union.size() == 0 || Union.back() != a[i]) {
+                    Union.push_back(a[i]);
+                }
+                i++;
+            } else {
+                if (Union.size() == 0 || Union.back() != b[j]) {
+                    Union.push_back(b[j]);
+                }
+                j++;
+            }
         }
-        for(int i=0; i < b.size();i++) {
-            st.insert(b[i]);
+
+        while (i < n1) {
+            if (Union.size() == 0 || Union.back() != a[i]) {
+                Union.push_back(a[i]);
+            }
+            i++;
         }
-        vector<int> temp;
-        for(auto it : st) {
-            temp.push_back(it);
+
+        while (j < n2) {
+            if (Union.size() == 0 || Union.back() != b[j]) {
+                Union.push_back(b[j]);
+            }
+            j++;
         }
-        return temp;
+
+        return Union;
     }
 };
+
+
 
 //{ Driver Code Starts.
 int main() {
