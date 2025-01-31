@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakharpaawan/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
