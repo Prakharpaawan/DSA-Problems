@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakharpaawan/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
