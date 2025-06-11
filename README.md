@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Prakharpaawan/DSA-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
