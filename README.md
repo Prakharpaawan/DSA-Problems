@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prakharpaawan/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
