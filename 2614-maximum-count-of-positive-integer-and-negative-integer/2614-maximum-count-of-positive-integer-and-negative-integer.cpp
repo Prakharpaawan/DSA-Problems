@@ -1,16 +1,29 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        int pos=0,neg=0;
-        for(int i=0;i<nums.size();i++) {
-            if (nums[i]<0){
-                neg++;
+        int low = 0, high = nums.size() - 1, mid, neg = nums.size();
+        while (low <= high) {
+            mid = (low + high) / 2;
+            if (nums[mid] < 0) {
+                low = mid + 1;
+            } else {
+                neg = mid;
+                high = mid - 1;
             }
-            else if(nums[i]>0) { pos++;}
         }
-        if(pos>=neg) {
-            return pos;
+        int pos = nums.size();
+        low = 0;
+        high = nums.size() - 1;
+        while (low <= high) {
+            mid = (low + high) / 2;
+            if (nums[mid] > 0) {
+                pos=mid;
+                high=mid-1;
+            } else {
+                low=mid+1;
+            }
         }
-        else { return neg; }
+        return max(neg, (int)nums.size() - pos);
+
     }
 };
