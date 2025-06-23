@@ -108,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Prakharpaawan/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Prakharpaawan/DSA-Problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Prakharpaawan/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
