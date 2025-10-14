@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Prakharpaawan/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prakharpaawan/DSA-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -155,5 +157,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0143-reorder-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Prakharpaawan/DSA-Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
